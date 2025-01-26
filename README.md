@@ -57,6 +57,7 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 - [Multiplayer FPS Template](https://github.com/TheDahoom/FPS-Multiplayer-Template) — A multiplayer FPS template with full controller support. ![GitHub Repo stars](https://img.shields.io/github/stars/TheDahoom/FPS-Multiplayer-Template)
 - [Open RPG](https://github.com/gdquest-demos/godot-open-rpg) — A 2D classical turn-based RPG. ![GitHub Repo stars](https://img.shields.io/github/stars/gdquest-demos/godot-open-rpg)
 - [Top-Down Shooter Template](https://github.com/nezvers/Godot-GameTemplate) — A top-down shooter template. ![GitHub Repo stars](https://img.shields.io/github/stars/nezvers/Godot-GameTemplate)
+- [BoomerShooter Template](https://github.com/bearlikelion/BoomerShooter) - A singleplayer first person template with a state machine, enemy spawning, and save system ![GitHub Repo stars](https://img.shields.io/github/stars/bearlikelion/BoomerShooter)
 
 ### Strategy
 - [Open RTS](https://github.com/lampe-games/godot-open-rts) — A 3D open Source RTS game. ![GitHub Repo stars](https://img.shields.io/github/stars/lampe-games/godot-open-rts)
