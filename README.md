@@ -17,6 +17,7 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
   
 - [Official Godot Templates](#official-godot-templates)
 - [Board Games](#board-games)
+- [Fighting](#fighting)
 - [Platformer](#platformer)
 - [Puzzle](#puzzle)
 - [Roleplay](#roleplay)
@@ -31,6 +32,9 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 
 ### Board Games
 - [Pali](https://github.com/rametta/Pali) — A 3D multiplayer trading card game. ![GitHub Repo stars](https://img.shields.io/github/stars/rametta/Pali)
+
+### Fighting
+- [Fishards](https://github.com/charlesmaddock/fishards) — A 3D multiplayer action packed fighting game available on Steam. ![GitHub Repo stars](https://img.shields.io/github/stars/charlesmaddock/fishards)
 
 ### Platformer
 - [2D Platformer Game](https://github.com/gdquest-demos/godot-3-beginner-2d-platformer) — A 2D platformer game made by GDQuest. ![GitHub Repo stars](https://img.shields.io/github/stars/gdquest-demos/godot-3-beginner-2d-platformer)
@@ -49,13 +53,14 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 - [Mining Sandbox](https://github.com/Griiimon/2D-Mining-Sandbox) — A 2D community sandbox game project.  ![GitHub Repo stars](https://img.shields.io/github/stars/Griiimon/2D-Mining-Sandbox)
 
 ### Shooter
+- [Cogito](https://github.com/Phazorknight/Cogito) — A 3D first person immersive sim template. ![GitHub Repo stars](https://img.shields.io/github/stars/Phazorknight/Cogito)
 - [Multiplayer FPS Template](https://github.com/TheDahoom/FPS-Multiplayer-Template) — A multiplayer FPS template with full controller support. ![GitHub Repo stars](https://img.shields.io/github/stars/TheDahoom/FPS-Multiplayer-Template)
 - [Open RPG](https://github.com/gdquest-demos/godot-open-rpg) — A 2D classical turn-based RPG. ![GitHub Repo stars](https://img.shields.io/github/stars/gdquest-demos/godot-open-rpg)
 - [Top-Down Shooter Template](https://github.com/nezvers/Godot-GameTemplate) — A top-down shooter template. ![GitHub Repo stars](https://img.shields.io/github/stars/nezvers/Godot-GameTemplate)
 
 ### Strategy
 - [Open RTS](https://github.com/lampe-games/godot-open-rts) — A 3D open Source RTS game. ![GitHub Repo stars](https://img.shields.io/github/stars/lampe-games/godot-open-rts)
-- [Shootcaller](https://github.com/lampe-games/godot-open-rts) — A 2D top-down 1v1 MOBA with autonomous units. ![GitHub Repo stars](https://img.shields.io/github/stars/spicylobstergames/shotcaller-godot)
+- [Shootcaller](https://github.com/spicylobstergames/shotcaller-godot) — A 2D top-down 1v1 MOBA with autonomous units. ![GitHub Repo stars](https://img.shields.io/github/stars/spicylobstergames/shotcaller-godot)
 
 ### Tower Defense
 - [Outpost Assault](https://github.com/quiver-dev/tower-defense-godot4) — A 2D tile-based game template for Godot 4. ![GitHub Repo stars](https://img.shields.io/github/stars/quiver-dev/tower-defense-godot4)
