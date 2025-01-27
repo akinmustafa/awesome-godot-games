@@ -2,9 +2,10 @@
 
 A curated list of useful open-source Godot 4+ games in alphabetical order.
 
-- [Something Wrong?](#something-wrong)
-- [Supporting](#supporting)
+#### Supporting
+Contributions are welcomed. Please ensure that the repository has a license and provides relevant images or videos demonstrating the project. You can also leave a star if you appreciate the work done in this repository.
 
+Similar list for Unity Engine: [Awesome Unity Games](https://github.com/akinmustafa/awesome-unity-games).
 
 > [!WARNING]
 > Some projects might lack a license, or their licenses could have been changed or removed. Make sure to check and manage the licenses if you intend to use the content.
@@ -16,6 +17,7 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
   <summary><h3>Categories</h3></summary>
   
 - [Official Godot Templates](#official-godot-templates)
+- [Arcade](#arcade)
 - [Board Games](#board-games)
 - [Fighting](#fighting)
 - [Platformer](#platformer)
@@ -29,6 +31,9 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 
 ### Official Godot Templates
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) — All Godot demo projects in a single repository. ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot-demo-projects)
+
+### Arcade
+- [OpenAT](https://github.com/jupiterbjy/OpenAT) — Open source Godot recreation attempt of Armada Tanks. ![GitHub Repo stars](https://img.shields.io/github/stars/jupiterbjy/OpenAT)
 
 ### Board Games
 - [Pali](https://github.com/rametta/Pali) — A 3D multiplayer trading card game. ![GitHub Repo stars](https://img.shields.io/github/stars/rametta/Pali)
@@ -45,6 +50,7 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 - [Turbo Fat](https://github.com/Poobslag/turbofat) — A 2D block-dropping puzzle game. ![GitHub Repo stars](https://img.shields.io/github/stars/Poobslag/turbofat)
 
 ### Roleplay
+- [Open RPG](https://github.com/gdquest-demos/godot-open-rpg) — A 2D classical turn-based RPG. ![GitHub Repo stars](https://img.shields.io/github/stars/gdquest-demos/godot-open-rpg)
 - [Reia](https://github.com/Quaint-Studios/Reia) — A 3D MMO-RPG game made with Godot, Rust and Zig.  ![GitHub Repo stars](https://img.shields.io/github/stars/Quaint-Studios/Reia)
 - [Tactical RPG](https://github.com/ramaureirac/godot-tactical-rpg) — A tactical role-playing game demo. ![GitHub Repo stars](https://img.shields.io/github/stars/ramaureirac/godot-tactical-rpg)
 
@@ -56,7 +62,6 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 - [BoomerShooter Template](https://github.com/bearlikelion/BoomerShooter) - A singleplayer first person template with a state machine, enemy spawning, and save system. ![GitHub Repo stars](https://img.shields.io/github/stars/bearlikelion/BoomerShooter)
 - [Cogito](https://github.com/Phazorknight/Cogito) — A 3D first person immersive sim template. ![GitHub Repo stars](https://img.shields.io/github/stars/Phazorknight/Cogito)
 - [Multiplayer FPS Template](https://github.com/TheDahoom/FPS-Multiplayer-Template) — A multiplayer FPS template with full controller support. ![GitHub Repo stars](https://img.shields.io/github/stars/TheDahoom/FPS-Multiplayer-Template)
-- [Open RPG](https://github.com/gdquest-demos/godot-open-rpg) — A 2D classical turn-based RPG. ![GitHub Repo stars](https://img.shields.io/github/stars/gdquest-demos/godot-open-rpg)
 - [Top-Down Shooter Template](https://github.com/nezvers/Godot-GameTemplate) — A top-down shooter template. ![GitHub Repo stars](https://img.shields.io/github/stars/nezvers/Godot-GameTemplate)
 
 ### Strategy
@@ -65,12 +70,6 @@ A curated list of useful open-source Godot 4+ games in alphabetical order.
 
 ### Tower Defense
 - [Outpost Assault](https://github.com/quiver-dev/tower-defense-godot4) — A 2D tile-based game template for Godot 4. ![GitHub Repo stars](https://img.shields.io/github/stars/quiver-dev/tower-defense-godot4)
-
-### Something Wrong?
-Feel free to open an issue or let me know on [Discord](https://discord.com/users/501804360079245312).
-
-### Supporting
-Contributions and suggestions are welcomed; you can also leave a star if you appreciate the work done in this repository.
 
 ### License
 This repository is licensed under the [CC0-1.0](https://github.com/akinmustafa/awesome-godot-games/blob/main/LICENSE) license.
