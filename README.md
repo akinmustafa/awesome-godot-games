@@ -17,6 +17,7 @@ Similar list for Unity Engine: [Awesome Unity Games](https://github.com/akinmust
   <summary><h3>Categories</h3></summary>
   
 - [Official Godot Templates](#official-godot-templates)
+- [Action-Adventure](#action-adventure)
 - [Arcade](#arcade)
 - [Board Games](#board-games)
 - [Fighting](#fighting)
@@ -25,6 +26,7 @@ Similar list for Unity Engine: [Awesome Unity Games](https://github.com/akinmust
 - [Roleplay](#roleplay)
 - [Sandbox](#sandbox)
 - [Shooter](#shooter)
+- [Simulation](#simulation)
 - [Strategy](#strategy)
 - [Tower Defense](#tower-defense)
 </details>
@@ -32,11 +34,15 @@ Similar list for Unity Engine: [Awesome Unity Games](https://github.com/akinmust
 ### Official Godot Templates
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) — All Godot demo projects in a single repository. ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot-demo-projects)
 
+### Action-Adventure
+- [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) — A GTA 3 reimplementation. ![GitHub Repo stars](https://img.shields.io/github/stars/FOSS-Supremacy/OpenLiberty)
+
 ### Arcade
-- [OpenAT](https://github.com/jupiterbjy/OpenAT) — Open source Godot recreation attempt of Armada Tanks. ![GitHub Repo stars](https://img.shields.io/github/stars/jupiterbjy/OpenAT)
+- [OpenAT](https://github.com/jupiterbjy/OpenAT) — Open source recreation attempt of Armada Tanks. ![GitHub Repo stars](https://img.shields.io/github/stars/jupiterbjy/OpenAT)
 
 ### Board Games
 - [Pali](https://github.com/rametta/Pali) — A 3D multiplayer trading card game. ![GitHub Repo stars](https://img.shields.io/github/stars/rametta/Pali)
+- [Tabletop Club](https://github.com/drwhut/tabletop-club) — A platform for playing tabletop games in a physics based 3D environment. ![GitHub Repo stars](https://img.shields.io/github/stars/drwhut/tabletop-club)
 
 ### Fighting
 - [Fishards](https://github.com/charlesmaddock/fishards) — A 3D multiplayer action packed fighting game available on Steam. ![GitHub Repo stars](https://img.shields.io/github/stars/charlesmaddock/fishards)
@@ -59,17 +65,21 @@ Similar list for Unity Engine: [Awesome Unity Games](https://github.com/akinmust
 - [Mining Sandbox](https://github.com/Griiimon/2D-Mining-Sandbox) — A 2D community sandbox game project.  ![GitHub Repo stars](https://img.shields.io/github/stars/Griiimon/2D-Mining-Sandbox)
 
 ### Shooter
-- [BoomerShooter Template](https://github.com/bearlikelion/BoomerShooter) - A singleplayer first person template with a state machine, enemy spawning, and save system. ![GitHub Repo stars](https://img.shields.io/github/stars/bearlikelion/BoomerShooter)
+- [Boomer Shooter](https://github.com/bearlikelion/BoomerShooter) - A singleplayer first person template with a state machine, enemy spawning, and save system. ![GitHub Repo stars](https://img.shields.io/github/stars/bearlikelion/BoomerShooter)
 - [Cogito](https://github.com/Phazorknight/Cogito) — A 3D first person immersive sim template. ![GitHub Repo stars](https://img.shields.io/github/stars/Phazorknight/Cogito)
 - [Multiplayer FPS Template](https://github.com/TheDahoom/FPS-Multiplayer-Template) — A multiplayer FPS template with full controller support. ![GitHub Repo stars](https://img.shields.io/github/stars/TheDahoom/FPS-Multiplayer-Template)
 - [Top-Down Shooter Template](https://github.com/nezvers/Godot-GameTemplate) — A top-down shooter template. ![GitHub Repo stars](https://img.shields.io/github/stars/nezvers/Godot-GameTemplate)
 
+### Simulation
+- [Solar System](https://github.com/KozhaAkhmet/solar-system-in-godot) — Simple solar system simulation for educational purposes. ![GitHub Repo stars](https://img.shields.io/github/stars/KozhaAkhmet/solar-system-in-godot)
+
 ### Strategy
-- [Open RTS](https://github.com/lampe-games/godot-open-rts) — A 3D open Source RTS game. ![GitHub Repo stars](https://img.shields.io/github/stars/lampe-games/godot-open-rts)
+- [Open RTS](https://github.com/lampe-games/godot-open-rts) — A 3D open source RTS game. ![GitHub Repo stars](https://img.shields.io/github/stars/lampe-games/godot-open-rts)
 - [Shootcaller](https://github.com/spicylobstergames/shotcaller-godot) — A 2D top-down 1v1 MOBA with autonomous units. ![GitHub Repo stars](https://img.shields.io/github/stars/spicylobstergames/shotcaller-godot)
+- [Tanks of Freedom II](https://github.com/P1X-in/tanks-of-freedom-ii) — Turn based strategy game in isometric voxel art. ![GitHub Repo stars](https://img.shields.io/github/stars/P1X-in/tanks-of-freedom-ii)
 
 ### Tower Defense
-- [Outpost Assault](https://github.com/quiver-dev/tower-defense-godot4) — A 2D tile-based game template for Godot 4. ![GitHub Repo stars](https://img.shields.io/github/stars/quiver-dev/tower-defense-godot4)
+- [Outpost Assault](https://github.com/quiver-dev/tower-defense-godot4) — A 2D tile-based game template. ![GitHub Repo stars](https://img.shields.io/github/stars/quiver-dev/tower-defense-godot4)
 
 ### License
 This repository is licensed under the [CC0-1.0](https://github.com/akinmustafa/awesome-godot-games/blob/main/LICENSE) license.
